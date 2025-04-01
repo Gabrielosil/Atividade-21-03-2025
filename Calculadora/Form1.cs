@@ -88,7 +88,7 @@ namespace Calculadora
         // Evento de mudança de texto no TextBox (não é necessário fazer nada aqui)
         private void txtOperacao_TextChanged(object sender, EventArgs e)
         {
-            // Este evento pode ser usado para validação ou outras operações quando o texto muda.
+            // vazio
         }
     }
 }
